@@ -1,9 +1,24 @@
 
+# Hi 👋, I'm [YourUsername]
 
-# 👋 Hi, I'm Mehmet — Web Developer in Progress
+I'm a passionate software developer focused on building web applications using modern technologies.  
+Here you can find my projects categorized by technology stacks and purposes.
 
-Welcome to my GitHub!  
-Here you can find my learning projects using **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Next.js**, and more.
+---
+
+## 💻 Tech Stack Banner
+
+![Tech Stack](https://skillicons.dev/icons?i=html ,css,js,react,next,spring,java,tailwind,bootstrap)
+
+---
+
+## 🧰 Technologies I Use
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
+- **CSS Frameworks:** Tailwind CSS, Bootstrap
+- **Backend:** Java, Spring Boot
+
+---
 
 ---
 
