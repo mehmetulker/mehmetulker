@@ -8,7 +8,7 @@ Here you can find my projects categorized by technology stacks and purposes.
 
 ## 💻 Tech Stack Banner
 
-![Tech Stack](https://skillicons.dev/icons?i=html ,css,js,react,next,spring,java,tailwind,bootstrap)
+![Tech Stack]([https://skillicons.dev/icons?i=html ,css,js,react,next,spring,java,tailwind,bootstrap](https://github.com/mehmetulker/mehmetulker/blob/main/banner.jpeg))
 
 ---
 
