@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mehmetulker/mehmetulker/blob/main/banner.jpeg)
+(https://github.com/mehmetulker/mehmetulker/blob/main/banner.jpeg)
 # Hi 👋, I'm [YourUsername]
 
 I'm a passionate software developer focused on building web applications using modern technologies.  
