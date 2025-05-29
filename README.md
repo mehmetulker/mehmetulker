@@ -22,52 +22,67 @@
 
 <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mehmetulker&" alt = "mehmetulker" /></p>
 
-# 👋 Hi, I'm Mehmet — Web Developer in Progress
+# Merhaba 👋
 
-Welcome to my GitHub!  
-Here you can find my learning projects using **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Next.js**, and more.
-
----
-
-## 🧱 HTML, JavaScript, CSS Projects
-
-| Project Name       | Description                 | Technologies          | GitHub Link                                          | Live Link                                        |
-|--------------------|-----------------------------|------------------------|------------------------------------------------------|--------------------------------------------------|
-| Portfolio Website  | Personal portfolio website  | HTML, CSS, JavaScript | [GitHub](https://github.com/yourUsername/portfolio)  | [Live](https://yourUsername.github.io/portfolio) |
-| Todo App           | To-do list application      | HTML, CSS, JS         | [GitHub](https://github.com/yourUsername/todo-app)   | [Live](https://yourUsername.github.io/todo-app)  |
+Ben [Kullanıcı Adınız], Yazılım Geliştiriciyim.  
+Bu benim kişisel GitHub profil sayfam. Burada yaptığım projeleri sınıflandırmış olarak bulabilirsiniz.
 
 ---
 
-## 🎨 CSS Framework Projects (Bootstrap, TailwindCSS, etc.)
+## 🛠️ Kullandığım Teknolojiler
 
-| Project Name       | Description                 | Technologies          | GitHub Link                                                | Live Link                                              |
-|--------------------|-----------------------------|------------------------|-------------------------------------------------------------|--------------------------------------------------------|
-| Admin Dashboard    | Admin panel design          | HTML, TailwindCSS     | [GitHub](https://github.com/yourUsername/admin-dashboard)   | [Live](https://yourUsername.github.io/admin-dashboard) |
-| Landing Page       | Simple landing page         | Bootstrap             | [GitHub](https://github.com/yourUsername/landing-page)      | [Live](https://yourUsername.github.io/landing-page)    |
-
----
-
-## ⚛️ ReactJS Projects
-
-| Project Name       | Description                 | Technologies          | GitHub Link                                            | Live Link                                     |
-|--------------------|-----------------------------|------------------------|---------------------------------------------------------|-----------------------------------------------|
-| Weather App        | Weather forecast app        | ReactJS, API          | [GitHub](https://github.com/yourUsername/weather-app)   | [Live](https://weatherapp.netlify.app)        |
-| Notes App          | Note-taking app             | ReactJS, LocalStorage | [GitHub](https://github.com/yourUsername/notes-app)     | [Live](https://notesapp.netlify.app)          |
+- **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
+- **Backend:** Java, Spring Framework
+- **CSS Frameworkleri:** Bootstrap, Tailwind CSS
 
 ---
 
-## 🌐 Next.js Projects
+## 📁 Projelerim
 
-| Project Name       | Description                 | Technologies              | GitHub Link                                           | Live Link                                     |
-|--------------------|-----------------------------|----------------------------|--------------------------------------------------------|-----------------------------------------------|
-| Blog App           | Dynamic blog platform       | Next.js, TailwindCSS       | [GitHub](https://github.com/yourUsername/blog-app)     | [Live](https://blogapp.vercel.app)            |
-| User Panel         | Login & user dashboard      | Next.js, PostgreSQL, Auth  | [GitHub](https://github.com/yourUsername/user-panel)   | [Live](https://userpanel.vercel.app)          |
+### 💻 Web Siteleri & Frontend Uygulamaları (HTML, CSS, JS)
+
+| Proje Adı         | Açıklama                                | Teknolojiler        | Bağlantı |
+|-------------------|-----------------------------------------|---------------------|----------|
+| Kişisel Portföy   | Basit bir portföy sitesi                | HTML, CSS           | [GitHub](https://github.com/kullaniciadi/personal-portfolio ) |
+| Hesap Makinesi    | Temel JavaScript ile hesap makinesi     | HTML, CSS, JS       | [GitHub](https://github.com/kullaniciadi/calculator ) |
+| Hava Durumu App   | Hava durumu gösteren basit uygulama     | HTML, CSS, JS       | [GitHub](https://github.com/kullaniciadi/weather-app ) |
 
 ---
 
-## 📌 Notes
+### ⚛️ React.js Projeleri
 
-- Replace `yourUsername` with your real GitHub username.
-- Make sure your projects have a `README.md`, screenshot, and live demo if possible.
-- Deploy your projects on GitHub Pages, Netlify, or Vercel for Live Link.
+| Proje Adı         | Açıklama                                | Teknolojiler        | Bağlantı |
+|-------------------|-----------------------------------------|---------------------|----------|
+| ToDo List         | Yapılacaklar listesi uygulaması         | React.js            | [GitHub](https://github.com/kullaniciadi/todo-react ) |
+| E-Ticaret Sitesi  | Küçük ölçekli e-ticaret uygulaması      | React.js, Tailwind  | [GitHub](https://github.com/kullaniciadi/ecommerce-react ) |
 
+---
+
+### 🌐 Next.js Projeleri
+
+| Proje Adı         | Açıklama                                | Teknolojiler        | Bağlantı |
+|-------------------|-----------------------------------------|---------------------|----------|
+| Blog Uygulaması   | Dinamik blog yazısı görüntüleyen site   | Next.js, Markdown   | [GitHub](https://github.com/kullaniciadi/blog-nextjs ) |
+| Portfolio v2      | İleri düzey kişisel portföy sitesi      | Next.js, Tailwind   | [GitHub](https://github.com/kullaniciadi/portfolio-v2 ) |
+
+---
+
+### ☕ Java & Spring Framework Projeleri
+
+| Proje Adı         | Açıklama                                | Teknolojiler              | Bağlantı |
+|-------------------|-----------------------------------------|---------------------------|----------|
+| Ürün Yönetim Sistemi | Ürün CRUD işlemleri                   | Java, Spring Boot         | [GitHub](https://github.com/kullaniciadi/product-management ) |
+| Blog API          | RESTful API ile içerik yönetimi         | Java, Spring Data JPA     | [GitHub](https://github.com/kullaniciadi/blog-api-spring ) |
+
+---
+
+## 📬 İletişim
+
+Herhangi bir sorunuz veya iş birliği teklifi için:  
+📧 Email: [email-adresiniz@example.com](mailto:email-adresiniz@example.com)  
+🐦 Twitter: [@kullaniciadi](https://twitter.com/kullaniciadi )  
+💻 LinkedIn: [linkedin.com/in/kullaniciadi](https://www.linkedin.com/in/kullaniciadi )
+
+---
+
+Teşekkürler! 🙌  
