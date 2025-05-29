@@ -21,6 +21,14 @@
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mehmetulker&show_icons=true&locale=en" alt = "mehmetulker" /> </p>
 
 <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mehmetulker&" alt = "mehmetulker" /></p>
+
+# 👋 Hi, I'm Mehmet — Web Developer in Progress
+
+Welcome to my GitHub!  
+Here you can find my learning projects using **HTML**, **CSS**, **JavaScript**, **ReactJS**, **Next.js**, and more.
+
+---
+
 ## 🧱 HTML, JavaScript, CSS Projects
 
 | Project Name       | Description                 | Technologies          | GitHub Link                                          | Live Link                                        |
@@ -32,33 +40,34 @@
 
 ## 🎨 CSS Framework Projects (Bootstrap, TailwindCSS, etc.)
 
-| Project Name      | Description           | Technologies       | GitHub Link                                                | Live Link                                              |
-|-------------------|-----------------------|---------------------|-------------------------------------------------------------|--------------------------------------------------------|
-| Admin Dashboard   | Admin panel design    | HTML, TailwindCSS   | [GitHub](https://github.com/yourUsername/admin-dashboard)   | [Live](https://yourUsername.github.io/admin-dashboard) |
+| Project Name       | Description                 | Technologies          | GitHub Link                                                | Live Link                                              |
+|--------------------|-----------------------------|------------------------|-------------------------------------------------------------|--------------------------------------------------------|
+| Admin Dashboard    | Admin panel design          | HTML, TailwindCSS     | [GitHub](https://github.com/yourUsername/admin-dashboard)   | [Live](https://yourUsername.github.io/admin-dashboard) |
+| Landing Page       | Simple landing page         | Bootstrap             | [GitHub](https://github.com/yourUsername/landing-page)      | [Live](https://yourUsername.github.io/landing-page)    |
 
 ---
 
 ## ⚛️ ReactJS Projects
 
-| Project Name  | Description                  | Technologies           | GitHub Link                                             | Live Link                                     |
-|---------------|------------------------------|-------------------------|----------------------------------------------------------|-----------------------------------------------|
-| Weather App   | Weather forecast application | ReactJS, API           | [GitHub](https://github.com/yourUsername/weather-app)    | [Live](https://weatherapp.netlify.app)        |
-| Notes App     | Note-taking application      | ReactJS, LocalStorage  | [GitHub](https://github.com/yourUsername/notes-app)      | [Live](https://notesapp.netlify.app)          |
+| Project Name       | Description                 | Technologies          | GitHub Link                                            | Live Link                                     |
+|--------------------|-----------------------------|------------------------|---------------------------------------------------------|-----------------------------------------------|
+| Weather App        | Weather forecast app        | ReactJS, API          | [GitHub](https://github.com/yourUsername/weather-app)   | [Live](https://weatherapp.netlify.app)        |
+| Notes App          | Note-taking app             | ReactJS, LocalStorage | [GitHub](https://github.com/yourUsername/notes-app)     | [Live](https://notesapp.netlify.app)          |
 
 ---
 
 ## 🌐 Next.js Projects
 
-| Project Name  | Description                      | Technologies              | GitHub Link                                            | Live Link                                     |
-|---------------|----------------------------------|----------------------------|---------------------------------------------------------|-----------------------------------------------|
-| Blog App      | Dynamic blog platform            | Next.js, TailwindCSS       | [GitHub](https://github.com/yourUsername/blog-app)      | [Live](https://blogapp.vercel.app)            |
-| User Panel    | Login system and user dashboard  | Next.js, PostgreSQL, Auth  | [GitHub](https://github.com/yourUsername/user-panel)    | [Live](https://userpanel.vercel.app)          |
+| Project Name       | Description                 | Technologies              | GitHub Link                                           | Live Link                                     |
+|--------------------|-----------------------------|----------------------------|--------------------------------------------------------|-----------------------------------------------|
+| Blog App           | Dynamic blog platform       | Next.js, TailwindCSS       | [GitHub](https://github.com/yourUsername/blog-app)     | [Live](https://blogapp.vercel.app)            |
+| User Panel         | Login & user dashboard      | Next.js, PostgreSQL, Auth  | [GitHub](https://github.com/yourUsername/user-panel)   | [Live](https://userpanel.vercel.app)          |
 
 ---
 
 ## 📌 Notes
 
-- Replace `yourUsername` with your actual GitHub username.
-- You can deploy your projects on **GitHub Pages**, **Netlify**, or **Vercel**.
-- Keep updating your project list as you build more.
+- Replace `yourUsername` with your real GitHub username.
+- Make sure your projects have a `README.md`, screenshot, and live demo if possible.
+- Deploy your projects on GitHub Pages, Netlify, or Vercel for Live Link.
 
