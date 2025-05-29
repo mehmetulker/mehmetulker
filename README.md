@@ -21,3 +21,46 @@
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=mehmetulker&show_icons=true&locale=en" alt = "mehmetulker" /> </p>
 
 <p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=mehmetulker&" alt = "mehmetulker" /></p>
+
+
+## 🧱 HTML, JavaScript, CSS Projects
+
+| Project Name       | Description                | Technologies         | GitHub Link                                           | Live Link                                     |
+|--------------------|----------------------------|----------------------|-------------------------------------------------------|-----------------------------------------------|
+| Portfolio Website  | Personal portfolio website | HTML, CSS, JavaScript| [GitHub](https://github.com/yourUsername/portfolio)   | [Live](https://yourUsername.github.io/portfolio) |
+| Todo App           | To-do list application     | HTML, CSS, JS        | [GitHub](https://github.com/yourUsername/todo-app)    | [Live](https://yourUsername.github.io/todo-app) |
+
+---
+
+## 🎨 CSS Framework Projects (Bootstrap, TailwindCSS, etc.)
+
+| Project Name     | Description           | Technologies     | GitHub Link                                              | Live Link                                           |
+|------------------|-----------------------|------------------|----------------------------------------------------------|-----------------------------------------------------|
+| Admin Dashboard  | Admin panel design    | HTML, TailwindCSS| [GitHub](https://github.com/yourUsername/admin-dashboard)| [Live](https://yourUsername.github.io/admin-dashboard) |
+
+---
+
+## ⚛️ ReactJS Projects
+
+| Project Name | Description                | Technologies          | GitHub Link                                            | Live Link                                      |
+|--------------|----------------------------|-----------------------|--------------------------------------------------------|------------------------------------------------|
+| Weather App  | Weather forecast application | ReactJS, API        | [GitHub](https://github.com/yourUsername/weather-app)  | [Live](https://weatherapp.netlify.app)        |
+| Notes App    | Note-taking application     | ReactJS, LocalStorage| [GitHub](https://github.com/yourUsername/notes-app)    | [Live](https://notesapp.netlify.app)          |
+
+---
+
+## 🌐 Next.js Projects
+
+| Project Name | Description                   | Technologies               | GitHub Link                                           | Live Link                                        |
+|--------------|-------------------------------|----------------------------|-------------------------------------------------------|--------------------------------------------------|
+| Blog App     | Dynamic blog platform         | Next.js, TailwindCSS       | [GitHub](https://github.com/yourUsername/blog-app)    | [Live](https://blogapp.vercel.app)              |
+| User Panel   | Login system and user dashboard | Next.js, PostgreSQL, Auth | [GitHub](https://github.com/yourUsername/user-panel)  | [Live](https://userpanel.vercel.app)            |
+
+---
+
+## 📌 Notes
+
+- Replace `yourUsername` with your actual GitHub username.
+- You can deploy your projects on **GitHub Pages**, **Netlify**, or **Vercel**.
+- Keep updating your project list as you build more.
+
