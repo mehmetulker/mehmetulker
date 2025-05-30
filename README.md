@@ -1,9 +1,12 @@
 ![MasterHead](https://github.com/mehmetulker/mehmetulker/blob/main/banner.jpeg)
 
-# Hi 👋, I'm [Mehmet ÜLKER]
+# Hi 👋, I'm Mehmet ÜLKER
 
-I'm a passionate software developer focused on building web applications using modern technologies.  
-Here you can find my projects categorized by technology stacks and purposes.
+I'm a developer who is passionate about software development and always working to improve myself.
+
+Currently, I’m focused on backend development with Java (Spring Boot) and frontend development with React.js / Next.js. I reinforce what I learn by building projects and aim to grow step by step.
+
+My software journey continues, and I try to learn something new every day. My goal is to apply what I learn to real projects and contribute to this ecosystem.
 
 ---
 
@@ -35,10 +38,10 @@ Here you can find my projects categorized by technology stacks and purposes.
 
 ## 🧱 HTML, JavaScript, CSS Projects
 
-| Project Name      | Description                | Technologies          | GitHub Link                                         | Live Link                                        |
-| ----------------- | -------------------------- | --------------------- | --------------------------------------------------- | ------------------------------------------------ |
-| Portfolio Website | Personal portfolio website | HTML, CSS, JavaScript | [GitHub](https://github.com/yourUsername/portfolio) | [Live](https://yourUsername.github.io/portfolio) |
-| Todo App          | To-do list application     | HTML, CSS, JS         | [GitHub](https://github.com/yourUsername/todo-app)  | [Live](https://yourUsername.github.io/todo-app)  |
+| Project Name            | Description                           | Technologies | GitHub Link                                                                                       | Live Link                                                         |
+| ----------------------- | ------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Responsive Food Website | Responsive Food                       | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git)               | [Live](https://whimsical-crisp-9d44fb.netlify.app/)               |
+| Personal Portfolio      | Responsive Personal Portfolio Website | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Personal-Portfolio-Website-using-HTML-CSS.git) | [Live](https://responsive-personal-portfolio-websit.netlify.app/) |
 
 ---
 
@@ -73,8 +76,8 @@ Here you can find my projects categorized by technology stacks and purposes.
 
 If you have any questions or want to collaborate:
 
-📧 Email: [youremail@example.com](mailto:mehmetulker@hotmail.com)  
-💻 LinkedIn: [linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin)  
-🐙 GitHub: [github.com/yourusername](https://github.com/mehmetulker)
+📧 Email: [mehmetulker@hotmail.com](mailto:mehmetulker@hotmail.com)  
+💻 LinkedIn: [www.linkedin.com/in/mehmet-ülker](www.linkedin.com/in/mehmet-ülker)  
+🐙 GitHub: [https://github.com/mehmetulker](https://github.com/mehmetulker)
 
 ---
