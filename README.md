@@ -38,12 +38,13 @@ My software journey continues, and I try to learn something new every day. My go
 
 ## 🧱 HTML, JavaScript, CSS Projects
 
-| Project Name            | Description                           | Technologies | GitHub Link                                                                                       | Live Link                                                                      |
-| ----------------------- | ------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Responsive Food Website | Responsive Food                       | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git)               | <a href="https://whimsical-crisp-9d44fb.netlify.app/" target="_blank">Live</a> |
-| Personal Portfolio      | Responsive Personal Portfolio Website | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Personal-Portfolio-Website-using-HTML-CSS.git) | [Live](https://responsive-personal-portfolio-websit.netlify.app/)              |
+| Project Name            | Description                           | Technologies | GitHub Link                                                                                       | Live Link                                                                                     |
+| ----------------------- | ------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Responsive Food Website | Responsive Food                       | HTML, CSS    | <a href="https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git" target="_blank">GitHub</a>               | <a href="https://whimsical-crisp-9d44fb.netlify.app/" target="_blank">Live</a>              |
+| Personal Portfolio      | Responsive Personal Portfolio Website | HTML, CSS    | <a href="https://github.com/mehmetulker/Responsive-Personal-Portfolio-Website-using-HTML-CSS.git" target="_blank">GitHub</a> | <a href="https://responsive-personal-portfolio-websit.netlify.app/" target="_blank">Live</a> |
 
 ---
+
 
 
 ## 🎨 CSS Framework Projects (Bootstrap, TailwindCSS, etc.)
