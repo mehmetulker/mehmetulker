@@ -40,7 +40,8 @@ My software journey continues, and I try to learn something new every day. My go
 
 | Project Name            | Description                           | Technologies | GitHub Link                                                                                       | Live Link                                                         |
 | ----------------------- | ------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| Responsive Food Website | Responsive Food                       | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git)               | [Live](https://whimsical-crisp-9d44fb.netlify.app/)               |
+| Responsive Food Website | Responsive Food                       | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Food-Website-Using-HTML-CSS.git)               | [Live] <a href="https://whimsical-crisp-9d44fb.netlify.app/" target="_blank">Food Website Demo</a>
+              |
 | Personal Portfolio      | Responsive Personal Portfolio Website | HTML, CSS,   | [GitHub](https://github.com/mehmetulker/Responsive-Personal-Portfolio-Website-using-HTML-CSS.git) | [Live](https://responsive-personal-portfolio-websit.netlify.app/) |
 
 ---
